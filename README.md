@@ -24,7 +24,7 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 ## 1.4 Real world/Business Objectives and constraints 
 ### Objectives:
 
-1. Predict the rating that a user would give to a movie that he ahs not yet rated.
+1. Predict the rating that a user would give to a movie that he has not yet rated.
 2. Minimize the difference between predicted and actual rating (RMSE and MAPE) 
 ### Constraints:
 
