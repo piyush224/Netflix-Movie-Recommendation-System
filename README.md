@@ -1,6 +1,6 @@
 <img src='http://www.techscript24.com/admin/UI/assets/img/BlogsImage/netflix-q.jpg'>
-# NETFLIX-MOVIE-RECOMMENDATION-SYSTEM
 
+# NETFLIX-MOVIE-RECOMMENDATION-SYSTEM
 # 1. Business Problem 
 ## 1.1 Problem Description 
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while Cinematch is doing pretty well, it can always be made better.
